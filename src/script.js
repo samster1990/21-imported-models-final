@@ -38,7 +38,7 @@ import { ShaderPass } from 'three/examples/jsm/postprocessing/ShaderPass.js';
 /**-------------------------This is a Shader section 1 ------------------------------- */
 
 // Debug
-const gui = new GUI();
+//const gui = new GUI();
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl');
